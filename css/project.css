@@ -12,6 +12,17 @@ h2.text-center, h4, p, li { font-weight: 400 }
 .container-section-heading hr.color-center-line { text-align: center; margin: 12px auto 72px auto;  height: 6px; width: 30% }
 .navbar-nav a.nav-link { font-size: 18px; margin-left: 20px}
 
+.bg-footer { background: #2c3e50; padding: 42px 0 48px 0  }
+.container-footer h4, p, p a { color: #fff }
+.container-footer h4 { margin-bottom: 6px; font-weight: 700; font-size:18px }
+.container-footer p { margin-bottom: 3px }
+.container-footer .col-md-8 h4,
+.container-footer .col-md-8 p { text-align: center; margin: 0 16% 12px 16% }
+.container-footer p a:hover, .container-footer p a:active { color: #fff; text-decoration: underline }
+
+
+
+
 .jumbotron {
 	background-image: url('../img/drogheda.jpg');
 	background-size: cover;
@@ -88,9 +99,8 @@ h4 { margin-bottom: 2px }
 	.background-highlight { padding: 6% 0 4% 0; margin-bottom: 4% }
 	.background-highlight .col-md-3 p { width: 78%; margin-left: auto; margin-right: auto }
 
-}
 
-.bg-footer { padding: 8px 0 26px 0 }
+	.bg-footer { padding: 8px 0 26px 0 }
 	.container-footer h4, p { margin-bottom: 6px }
 	.container-footer .col-md-2 h4, .container-footer .col-md-8 h4 { margin-top:20px; font-size:15px; text-align: left }
 	.container-footer .col-md-8 p,  .container-footer .col-md-8 p {  font-size:14px; text-align: left }
