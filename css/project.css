@@ -13,7 +13,7 @@ h2.text-center, h4, p, li { font-weight: 400 }
 .navbar-nav a.nav-link { font-size: 18px; margin-left: 20px}
 
 .jumbotron {
-	background-image: url('../img/drogheda');
+	background-image: url('../img/drogheda.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 480px; width: auto;
