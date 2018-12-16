@@ -8,7 +8,7 @@ h1, h3 { font-weight: 900 }
 h2.text-center, h4, p, li { font-weight: 400 }
 
 .jumbotron {
-	background-image: url('../img/drogheda-town.jpg');
+	background-image: url('../img/drogheda.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 480px; width: auto;
